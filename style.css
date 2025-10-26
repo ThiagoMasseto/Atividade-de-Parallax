@@ -66,3 +66,22 @@
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: color;
 }
+.montanhas{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 50vh;
+}
+
+.montanhas > h1{
+    border: 2px solid white;
+    margin: 0 auto;
+    width: 800px;
+}
+.text3{
+    padding: 50px 150px;
+}
+
+.img-4{
+    background-image: url();
+}
